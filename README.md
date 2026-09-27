@@ -4,4 +4,4 @@ This is my first Git and GitHub exercise.
 
 ## Student
 
-Your Name
+Toon De Leersnyder
